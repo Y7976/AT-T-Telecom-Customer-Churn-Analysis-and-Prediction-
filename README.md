@@ -2,6 +2,9 @@
 
 Predicting customer churn is one of the most important business problems in the telecom industry. This project builds a machine learning model using **Logistic Regression** to identify customers who are likely to leave a telecom service provider.
 
+[Download the data set](https://github.com/Y7976/AT-T-Telecom-Customer-Churn-Analysis-and-Prediction-/blob/9d7d2b8dd47221c09adb07af59d4a21cb67af0a4/Churn%20Logistic%20DataSet.csv) 
+
+
 The project includes:
 
 - Exploratory Data Analysis (EDA)
