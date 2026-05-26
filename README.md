@@ -192,6 +192,7 @@ X.shape
 
 
 - Checked feature correlations
+  
 ```python
 sns.pairplot(data=churn)
 ```
@@ -207,7 +208,9 @@ Notice how,
 
 . We will also be taking few more features such as "Account Length" and "CustServ Calls"
 
+
 - Feature scaling using `StandardScaler`
+  
  ```python
   from sklearn.preprocessing import StandardScaler
 scaler = StandardScaler()
@@ -218,7 +221,8 @@ x_val = scaler.transform(X_val)
 X_test = scaler.transform(X_test)
 ```
 
- Train-validation-test split
+
+- Train-validation-test split
 
  ```python
 from sklearn.model_selection import train_test_split
@@ -231,6 +235,7 @@ X_train.shape
 ## 2. Model Used
 
 ### Logistic Regression
+
 
 Logistic Regression was selected because:
 
@@ -257,8 +262,8 @@ model.intercept_
 ```
 ```python
 model.predict(X_train)
-### Validation Accuracy
 ```
+### Validation Accuracy
 
 - **Accuracy Matric** 
 implement our accuracy metric
@@ -293,7 +298,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn notebook
 ## 3. Run the Notebook
 
 ```bash
-jupyter notebook
+Google Colab notebook
 ```
 
 Open:
@@ -328,16 +333,3 @@ Possible future enhancements:
 
 ---
 
-#  Contributing
-
-Contributions, suggestions, and improvements are welcome.
-
-Feel free to fork the repository and submit a pull request.
-
----
-
-#  License
-
-This project is open-source and available under the MIT License.
-
----
