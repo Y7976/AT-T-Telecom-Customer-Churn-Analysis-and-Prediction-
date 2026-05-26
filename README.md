@@ -24,10 +24,13 @@ The model helps identify patterns that indicate whether a customer is likely to 
 
 #  Dataset Information
 
+[Download the data set](https://github.com/Y7976/AT-T-Telecom-Customer-Churn-Analysis-and-Prediction-/blob/9d7d2b8dd47221c09adb07af59d4a21cb67af0a4/Churn%20Logistic%20DataSet.csv) 
+
+
 ![image alt](https://github.com/Y7976/AT-T-Telecom-Customer-Churn-Analysis-and-Prediction-/blob/53003ffcf132d500fcbe3f9525b0df7a3aa25510/Initial%20Given%20Data.png)
 
 The dataset is reasonably balanced between churn and non-churn customers, making accuracy a reliable evaluation metric for measuring model performance.
-[Download the data set](https://github.com/Y7976/AT-T-Telecom-Customer-Churn-Analysis-and-Prediction-/blob/9d7d2b8dd47221c09adb07af59d4a21cb67af0a4/Churn%20Logistic%20DataSet.csv) 
+
 
 The dataset contains telecom customer information with features such as:
 
