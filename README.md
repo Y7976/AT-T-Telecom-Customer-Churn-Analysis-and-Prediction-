@@ -121,14 +121,11 @@ Additional evaluation methods may include:
 
 ---
 
-```
 
 ---
 
-#  How to Run the Project
-
+#. How to Run the project 
 ## 1. Clone the Repository
-
 ```bash
 git clone https://github.com/your-username/your-repository-name.git
 cd your-repository-name
