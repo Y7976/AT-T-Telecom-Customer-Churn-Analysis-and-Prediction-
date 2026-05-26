@@ -1,5 +1,4 @@
 # AT-T-Telecom-Customer-Churn-Analysis-and-Prediction-
-#  Customer Churn Prediction using Logistic Regression
 
 Predicting customer churn is one of the most important business problems in the telecom industry. This project builds a machine learning model using **Logistic Regression** to identify customers who are likely to leave a telecom service provider.
 
